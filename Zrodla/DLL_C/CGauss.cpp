@@ -7,6 +7,7 @@
 
 using namespace std;
 //TEST CZY DZIALA W DOBRYM MIEJSCU
+//TEST CHANGE
 
 void gaussMain(string filename )
 {
