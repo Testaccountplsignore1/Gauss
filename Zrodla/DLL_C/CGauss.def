@@ -1,0 +1,2 @@
+LIBRARY CGauss
+EXPORTS gaussMain

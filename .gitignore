@@ -1,0 +1,5 @@
+Plik_exe/C++ Gauss Dll.exp
+*.pdb
+*.lib
+*.vcxproj
+*.filters
