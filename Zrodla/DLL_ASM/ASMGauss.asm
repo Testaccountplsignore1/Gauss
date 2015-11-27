@@ -11,6 +11,7 @@ DllEntry PROC hInstDLL:HINSTANCE, reason:DWORD, reserved1:DWORD
 
     mov eax, TRUE 
     ret
+	;TEST CHANGE 2
 
 DllEntry ENDP
 

@@ -9,6 +9,8 @@ using namespace std;
 //TEST CZY DZIALA W DOBRYM MIEJSCU
 //TEST CHANGE
 
+//TEST CHANGE 2
+
 void gaussMain(string filename )
 {
 	double **A = NULL;

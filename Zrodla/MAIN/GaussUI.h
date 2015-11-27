@@ -228,7 +228,7 @@ namespace Gauss {
 
 		}
 #pragma endregion
-
+		//TEST CHANGE 2
 		//Wczytywanie wskazanych plikow na listy
 	private: System::Void loadButton_Click(System::Object^  sender, System::EventArgs^  e) {
 		if (openFileDialog1->ShowDialog() == System::Windows::Forms::DialogResult::OK)
